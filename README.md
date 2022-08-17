@@ -31,3 +31,13 @@ Test
 ## v2 test
 
 Test 2 
+
+Cheatsheet
+# history - tell you your previous commands
+# git status - shows the status 
+# echo - repeats anything you type after
+# cat .gitignore - it tells git which folders/files to ignore
+# git commit - will save any changes that user made
+# git log - shows a list of all the commits made to a repository
+# git push - used to upload local repository content to a remote repository
+# git clone - primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location.
